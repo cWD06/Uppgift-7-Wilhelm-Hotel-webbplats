@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link a:visited {
+    color:grey
+}
+
+a:hover {
+    color:blue
+}
